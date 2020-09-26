@@ -1,2 +1,3 @@
-# Test-demo
-Learning Git-hub for hobby
+# maven-project
+
+Simple Maven Project
